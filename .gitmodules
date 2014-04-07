@@ -4,3 +4,6 @@
 [submodule "rbenv-cookbook"]
 	path = rbenv-cookbook
 	url = git@github.com:RiotGames/rbenv-cookbook.git
+[submodule "java"]
+	path = java
+	url = git@github.com:socrata-cookbooks/java.git
