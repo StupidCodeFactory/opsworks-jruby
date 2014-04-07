@@ -1,4 +1,4 @@
-name             'opsworks-jruby'
+name             'opsworks_jruby'
 maintainer       'YOUR_NAME'
 maintainer_email 'YOUR_EMAIL'
 license          'All rights reserved'
