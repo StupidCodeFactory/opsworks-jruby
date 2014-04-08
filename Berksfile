@@ -2,4 +2,5 @@ site :opscode
 
 cookbook 'java'
 cookbook 'logrotate'
-cookbook 'rbenv', github: 'fnichol/chef-rbenv'
+cookbook 'ruby_build', github: 'fnichol/chef-ruby_build'
+cookbook 'rbenv',      github: 'fnichol/chef-rbenv'
